@@ -4,18 +4,6 @@
 <br />
 <br />
 
-#### Table of Contents:
-<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#about-this-template">About this template</a></br>
-<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#getting-started">Getting started</a></br>
-<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#how-to-customize-this-template">How to customize this template</a></br>
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#creating-a-new-project-page-and-adding-it-to-the-homepage">Creating a new project page</a></br>
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#adding-images-to-the-project-gallery">Adding gallery images</a></br>
-<a href="https://github.com/ndoherty-xyz/unemployables-portfolio-template#publishing-with-github-pages">Publishing with Github Pages</a></br>
-<br />
-<br />
-
-
-
 **Template instructions:**
 1. Click the `Use As Template` button above and name your new repository (it should be set to public).
 2. Clone your newly created repo to your local machine.
